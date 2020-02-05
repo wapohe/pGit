@@ -1,0 +1,9 @@
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\bin\Debug\ProyectoDNI.exe.config
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\bin\Debug\ProyectoDNI.exe
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\bin\Debug\ProyectoDNI.pdb
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.csprojAssemblyReference.cache
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.Form1.resources
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.Properties.Resources.resources
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.csproj.GenerateResource.cache
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.exe
+C:\Users\victorpergom\Desktop\Project_1_Git\ProyectoDNI\obj\Debug\ProyectoDNI.pdb
