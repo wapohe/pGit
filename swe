@@ -1,0 +1,33 @@
+[1mdiff --git a/ProyectoDNI/.vs/ProyectoDNI/v16/.suo b/ProyectoDNI/.vs/ProyectoDNI/v16/.suo[m
+[1mindex e6e8b2a..b2cdfb8 100644[m
+Binary files a/ProyectoDNI/.vs/ProyectoDNI/v16/.suo and b/ProyectoDNI/.vs/ProyectoDNI/v16/.suo differ
+[1mdiff --git a/ProyectoDNI/.vs/ProyectoDNI/v16/Server/sqlite3/storage.ide b/ProyectoDNI/.vs/ProyectoDNI/v16/Server/sqlite3/storage.ide[m
+[1mindex b1f0236..c59010a 100644[m
+Binary files a/ProyectoDNI/.vs/ProyectoDNI/v16/Server/sqlite3/storage.ide and b/ProyectoDNI/.vs/ProyectoDNI/v16/Server/sqlite3/storage.ide differ
+[1mdiff --git a/ProyectoDNI/Form1.cs b/ProyectoDNI/Form1.cs[m
+[1mindex a3fea51..c7eed15 100644[m
+[1m--- a/ProyectoDNI/Form1.cs[m
+[1m+++ b/ProyectoDNI/Form1.cs[m
+[36m@@ -22,6 +22,7 @@[m [mnamespace ProyectoDNI[m
+             int dni = Convert.ToInt32(textBoxDNI.Text);[m
+             char letter = functionLetter(dni);[m
+             textBoxChar.Text = letter.ToString();[m
+[32m+[m[32m            MessageBox.Show("Letter added");[m
+         }[m
+ [m
+         private char functionLetter(int dni)[m
+[1mdiff --git a/ProyectoDNI/bin/Debug/ProyectoDNI.exe b/ProyectoDNI/bin/Debug/ProyectoDNI.exe[m
+[1mindex bb9a2d6..5570766 100644[m
+Binary files a/ProyectoDNI/bin/Debug/ProyectoDNI.exe and b/ProyectoDNI/bin/Debug/ProyectoDNI.exe differ
+[1mdiff --git a/ProyectoDNI/bin/Debug/ProyectoDNI.pdb b/ProyectoDNI/bin/Debug/ProyectoDNI.pdb[m
+[1mindex fe6091e..ad072b1 100644[m
+Binary files a/ProyectoDNI/bin/Debug/ProyectoDNI.pdb and b/ProyectoDNI/bin/Debug/ProyectoDNI.pdb differ
+[1mdiff --git a/ProyectoDNI/obj/Debug/ProyectoDNI.csprojAssemblyReference.cache b/ProyectoDNI/obj/Debug/ProyectoDNI.csprojAssemblyReference.cache[m
+[1mindex f81aff4..f42cdc6 100644[m
+Binary files a/ProyectoDNI/obj/Debug/ProyectoDNI.csprojAssemblyReference.cache and b/ProyectoDNI/obj/Debug/ProyectoDNI.csprojAssemblyReference.cache differ
+[1mdiff --git a/ProyectoDNI/obj/Debug/ProyectoDNI.exe b/ProyectoDNI/obj/Debug/ProyectoDNI.exe[m
+[1mindex bb9a2d6..5570766 100644[m
+Binary files a/ProyectoDNI/obj/Debug/ProyectoDNI.exe and b/ProyectoDNI/obj/Debug/ProyectoDNI.exe differ
+[1mdiff --git a/ProyectoDNI/obj/Debug/ProyectoDNI.pdb b/ProyectoDNI/obj/Debug/ProyectoDNI.pdb[m
+[1mindex fe6091e..ad072b1 100644[m
+Binary files a/ProyectoDNI/obj/Debug/ProyectoDNI.pdb and b/ProyectoDNI/obj/Debug/ProyectoDNI.pdb differ
